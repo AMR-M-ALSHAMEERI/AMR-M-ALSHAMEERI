@@ -77,7 +77,7 @@ I'm a passionate developer focused on building **security tools**, **automation 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMR-M-ALSHAMEERI)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/AMR-M-ALSHAMEERI/PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=About.me&logoColor=white)](www.linkedin.com/in/amr-m-al-shameeri-88611124b)
 
 </div>
 

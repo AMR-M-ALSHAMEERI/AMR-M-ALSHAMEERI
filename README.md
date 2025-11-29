@@ -16,7 +16,7 @@ I'm a passionate developer focused on building **security tools**, **automation 
 
 - 🔐 Currently exploring **AI-powered security tools** and **compliance automation**
 - 🚀 Building desktop applications, browser extensions, and web apps
-- 🌍 Based in Yemen 🇾🇪
+- 🌍 Based in Somewhere ;-)
 - ⚡ Fun fact: My first-ever game was a **Snake game** in Python!
 
 ---

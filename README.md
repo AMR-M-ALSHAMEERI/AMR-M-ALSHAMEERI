@@ -1,51 +1,92 @@
-# Hi there, I'm AMR-M-ALSHAMEERI 👋
+<div align="center">
+  
+# Hey there! I'm Amr Al-Shameeri 👋
 
-> Short tagline about you — replace this with a one-line summary (e.g. "Full‑stack developer • Open-source enthusiast • AI tinkerer").
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Security+%26+Automation+Developer;Python+%7C+Flask+%7C+JavaScript+Enthusiast;Building+Tools+That+Make+a+Difference)](https://git.io/typing-svg)
 
-### About me
-- 🔭 I’m currently working on: _your current project or role_
-- 🌱 I’m learning: _what you're learning right now_
-- 👯 I’m looking to collaborate on: _types of projects you want to collaborate on_
-- 💬 Ask me about: _topics you can help with (e.g., JavaScript, Python, DevOps)_
-- ⚡ Fun fact: _short fun fact about you_
+<img src="https://komarev.com/ghpvc/?username=AMR-M-ALSHAMEERI&style=for-the-badge&color=6C63FF" alt="Profile Views" />
 
----
-
-### 🔧 Tech & Tools
-- Languages: JavaScript, TypeScript, Python, Go (replace with yours)
-- Frameworks & Libraries: React, Next.js, Node.js, Express
-- Tools: Git, Docker, Kubernetes, VS Code
-- Databases: PostgreSQL, MongoDB
+</div>
 
 ---
 
-### 🚀 Featured Projects
-- [project-1](https://github.com/AMR-M-ALSHAMEERI/project-1) — Short description of project-1
-- [project-2](https://github.com/AMR-M-ALSHAMEERI/project-2) — Short description of project-2
-- [project-3](https://github.com/AMR-M-ALSHAMEERI/project-3) — Short description of project-3
+## 🧑‍💻 About Me
 
-(Replace above links with your real repo names or delete entries you don't want.)
+I'm a passionate developer focused on building **security tools**, **automation utilities**, and **web applications** that solve real-world problems. I love creating software that makes complex tasks simple and accessible.
 
----
-
-### 📊 GitHub Stats
-
-![AMR-M-ALSHAMEERI's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMR-M-ALSHAMEERI&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMR-M-ALSHAMEERI&layout=compact&theme=default)
-
-*Tip: If you prefer a different theme, change the `theme` query param (e.g., theme=radical, dracula, dark).*
+- 🔐 Currently exploring **AI-powered security tools** and **compliance automation**
+- 🚀 Building desktop applications, browser extensions, and web apps
+- 🌍 Based in Yemen 🇾🇪
+- ⚡ Fun fact: My first-ever game was a **Snake game** in Python!
 
 ---
 
-### 📫 How to reach me
-- GitHub: https://github.com/AMR-M-ALSHAMEERI
-- Email: your.email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-linkedin/
-- Twitter/X: https://twitter.com/yourhandle
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-If you'd like, I can:
-- Customize this README with your real name, bio, projects, and social links.
-- Add badges, a profile banner, or change the stats theme.
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔍 [**ReguScan-Flask**](https://github.com/AMR-M-ALSHAMEERI/ReguScan-Flask) | Automated GDPR/CCPA compliance scanner with PII detection & risk assessment | `Python` `Flask` |
+| ⬇️ [**Flash Download Manager**](https://github.com/AMR-M-ALSHAMEERI/DM) | Fast download manager for Windows with YouTube support via yt-dlp | `Python` `Tkinter` |
+| 🛡️ [**LLM-Safe-Exploit-Generator**](https://github.com/AMR-M-ALSHAMEERI/LLM-Safe-Exploit-Generator) | LLM-powered web app exploit generator with safety controls | `Security` `AI` |
+| 🔎 [**Advanced Search Tool**](https://github.com/AMR-M-ALSHAMEERI/advanced-search-tool) | Browser extension for crafting advanced search queries with multi-engine support | `JavaScript` `Extension` |
+| 🐍 [**Snake Game**](https://github.com/AMR-M-ALSHAMEERI/snake-game) | My first game! Interactive and fun classic snake game | `Python` |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<a href="https://github.com/AMR-M-ALSHAMEERI">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMR-M-ALSHAMEERI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMR-M-ALSHAMEERI&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AMR-M-ALSHAMEERI&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMR-M-ALSHAMEERI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/AMR-M-ALSHAMEERI/PORTFOLIO)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"Building tools that make a difference, one line of code at a time."*
+
+⭐ Feel free to explore my repositories and don't forget to star the ones you like!
+
+</div>

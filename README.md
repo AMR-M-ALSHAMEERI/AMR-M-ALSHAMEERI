@@ -14,7 +14,7 @@
 
 I'm **AMR M. ALSHAMEERI**, a Computer Science graduate based in Malaysia. I build practical software across **AI engineering, developer tools, browser extensions, cybersecurity, and cloud applications**.
 
-I care about software that is clear, useful, and responsible—especially products that give people control over automation, privacy, and security. I'm currently open to **software engineering and AI engineering roles**, as well as selected freelance collaborations.
+I enjoy building software that solves real problems and respects the people using it. I'm especially interested in tools that make automation safer, protect privacy, and help users stay in control. I'm currently open to **software engineering and AI engineering roles**, along with selected freelance collaborations.
 
 ## What I'm focused on
 
@@ -53,8 +53,10 @@ React · WXT · Flask · Cloudflare Workers · D1 · GitHub Actions · PyPI · T
 
 ## Credentials
 
-- [Google IT Support Professional Certificate (v2)](https://www.credly.com/badges/5906e67c-162e-42d4-bf6a-d86da5d874b1/public_url) — Coursera
-- [Google Cloud Computing Foundations Certificate](https://www.credly.com/badges/172e26ff-c5eb-451f-9389-0c0518dee8df/public_url) — Google Cloud
+- [Google IT Support Professional Certificate (v2)](https://www.credly.com/badges/5906e67c-162e-42d4-bf6a-d86da5d874b1/public_url)  
+  Issued by Google through Coursera
+- [Google Cloud Computing Foundations Certificate](https://www.credly.com/badges/172e26ff-c5eb-451f-9389-0c0518dee8df/public_url)  
+  Issued by Google Cloud
 
 ## GitHub snapshot
 

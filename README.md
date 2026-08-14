@@ -60,7 +60,13 @@ React · WXT · Flask · Cloudflare Workers · D1 · GitHub Actions · PyPI · T
 
 <div align="center">
 
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMR-M-ALSHAMEERI&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=8B949E&icon_color=58A6FF)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/AMR-M-ALSHAMEERI/AMR-M-ALSHAMEERI/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" width="100%" />
+</a>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/AMR-M-ALSHAMEERI/AMR-M-ALSHAMEERI/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
+</a>
 
 </div>
 

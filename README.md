@@ -1,92 +1,83 @@
 <div align="center">
-  
-# Hey there! I'm Amr Al-Shameeri 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Security+%26+Automation+Developer;Python+%7C+Flask+%7C+JavaScript+Enthusiast;Building+Tools+That+Make+a+Difference)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:2F81F7&height=190&section=header&text=Amr%20M.%20Alshammeri&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Security-Focused%20Builder&descAlignY=58&descSize=17)
 
-<img src="https://komarev.com/ghpvc/?username=AMR-M-ALSHAMEERI&style=for-the-badge&color=6C63FF" alt="Profile Views" />
+### Building useful software with security, privacy, and people in mind.
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a passionate developer focused on building **security tools**, **automation utilities**, and **web applications** that solve real-world problems. I love creating software that makes complex tasks simple and accessible.
-
-- 🔐 Currently exploring **AI-powered security tools** and **compliance automation**
-- 🚀 Building desktop applications, browser extensions, and web apps
-- 🌍 Based in Somewhere ;-)
-- ⚡ Fun fact: My first-ever game was a **Snake game** in Python!
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-AMR--M--ALSHAMEERI-181717?style=flat-square&logo=github)](https://github.com/AMR-M-ALSHAMEERI)
+[![Location](https://img.shields.io/badge/Based_in-Malaysia-2F81F7?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Availability](https://img.shields.io/badge/Open_to-Roles_%26_Freelance-0969DA?style=flat-square)](#)
 
 </div>
 
----
+## About me
 
-## 🚀 Featured Projects
+I'm **Amr M. Alshammeri**, a Computer Science graduate based in Malaysia. I build practical software across **AI engineering, developer tools, browser extensions, cybersecurity, and cloud applications**.
+
+I care about software that is clear, useful, and responsible—especially products that give people control over automation, privacy, and security. I'm currently open to **software engineering and AI engineering roles**, as well as selected freelance collaborations.
+
+## What I'm focused on
+
+- Building human-in-the-loop AI tools with clear safety boundaries
+- Creating privacy-conscious, cross-browser extensions
+- Developing reliable automation and cloud-backed utilities
+- Turning technical ideas into usable, documented products
+
+## Flagship projects
+
+| Project | What it does | Highlights |
+|---|---|---|
+| **[ShellPa](https://github.com/AMR-M-ALSHAMEERI/ShellPa)** | A safety-conscious, cross-platform AI terminal assistant that turns natural-language requests into reviewed native commands. | Python, multi-provider AI, ChatGPT/Codex support, PyPI, CI, tests, secure credential storage |
+| **[LinkWisp](https://github.com/AMR-M-ALSHAMEERI/linkwisp)** | A local-first browser extension and self-hosted URL shortener for creating, managing, and sharing clean links. | TypeScript, WXT, Cloudflare Workers, D1, Chrome and Firefox, 61 automated tests |
+| **[Uninterrupted](https://addons.mozilla.org/firefox/addon/uninterrupted/)** | A privacy-conscious Firefox extension that reduces YouTube advertising interruptions without collecting browsing data. | Firefox Add-ons release, TypeScript, React, WXT, local-first settings and statistics |
+| **[Ayat Installer](https://github.com/AMR-M-ALSHAMEERI/Ayat-Installer)** | A repackaged installer that restores compatibility for Ayat, the Electronic Mosshaf, on Windows 10 and Windows 11. | Windows compatibility, bilingual documentation, accessible distribution, practical community utility |
+
+## More selected work
+
+| Project | Description |
+|---|---|
+| **[TnC-DR](https://github.com/AMR-M-ALSHAMEERI/TnC-DR)** | An AI-powered browser extension designed to help people understand terms and conditions before agreeing to them. |
+| **[LLM Safe Exploit Generator](https://github.com/AMR-M-ALSHAMEERI/LLM-Safe-Exploit-Generator)** | A security-focused LLM application for controlled web exploit generation with allow-list safety boundaries. |
+| **[AIoT Obstacle Anxiety Bot](https://github.com/AMR-M-ALSHAMEERI/IoT-Obstacle-Anxiety-Bot)** | An AIoT obstacle-detection robot with real-time telemetry and reporting through ThingSpeak. |
+
+## Technology
+
+**Languages**  
+Python · TypeScript · JavaScript · C++ · HTML · CSS
+
+**Engineering**  
+AI/LLM applications · Security automation · Browser extensions · REST APIs · Testing · CI/CD · Privacy-conscious design
+
+**Frameworks and platforms**  
+React · WXT · Flask · Cloudflare Workers · D1 · GitHub Actions · PyPI · ThingSpeak
+
+## Credentials
+
+- [Google IT Support Professional Certificate (v2)](https://www.credly.com/badges/5906e67c-162e-42d4-bf6a-d86da5d874b1/public_url) — Coursera
+- [Google Cloud Computing Foundations Certificate](https://www.credly.com/badges/172e26ff-c5eb-451f-9389-0c0518dee8df/public_url) — Google Cloud
+
+## GitHub snapshot
 
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔍 [**ReguScan-Flask**](https://github.com/AMR-M-ALSHAMEERI/ReguScan-Flask) | Automated GDPR/CCPA compliance scanner with PII detection & risk assessment | `Python` `Flask` |
-| ⬇️ [**Flash Download Manager**](https://github.com/AMR-M-ALSHAMEERI/DM) | Fast download manager for Windows with YouTube support via yt-dlp | `Python` `Tkinter` |
-| 🛡️ [**LLM-Safe-Exploit-Generator**](https://github.com/AMR-M-ALSHAMEERI/LLM-Safe-Exploit-Generator) | LLM-powered web app exploit generator with safety controls | `Security` `AI` |
-| 🔎 [**Advanced Search Tool**](https://github.com/AMR-M-ALSHAMEERI/advanced-search-tool) | Browser extension for crafting advanced search queries with multi-engine support | `JavaScript` `Extension` |
-| 🐍 [**Snake Game**](https://github.com/AMR-M-ALSHAMEERI/snake-game) | My first game! Interactive and fun classic snake game | `Python` |
+![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMR-M-ALSHAMEERI&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=8B949E&icon_color=58A6FF)
 
 </div>
 
----
+## Let's connect
 
-## 📊 GitHub Stats
+I'm open to full-time opportunities and freelance work in **software engineering, AI engineering, developer tooling, browser extensions, and security-focused products**.
 
 <div align="center">
-  
-<a href="https://github.com/AMR-M-ALSHAMEERI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMR-M-ALSHAMEERI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMR-M-ALSHAMEERI&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AMR-M-ALSHAMEERI&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-m-al-shameeri-88611124b/)
 
 </div>
 
----
-
-## 🤝 Let's Connect
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMR-M-ALSHAMEERI)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=About.me&logoColor=white)](www.linkedin.com/in/amr-m-al-shameeri-88611124b)
+![Profile views](https://komarev.com/ghpvc/?username=AMR-M-ALSHAMEERI&label=Profile%20views&color=2F81F7&style=flat-square)
 
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Building tools that make a difference, one line of code at a time."*
-
-⭐ Feel free to explore my repositories and don't forget to star the ones you like!
+<sub>Thanks for visiting. Feel free to explore the projects above.</sub>
 
 </div>

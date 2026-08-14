@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:2F81F7&height=190&section=header&text=Amr%20M.%20Alshammeri&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Security-Focused%20Builder&descAlignY=58&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:2F81F7&height=190&section=header&text=AMR%20M.%20ALSHAMEERI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Security-Focused%20Builder&descAlignY=58&descSize=17)
 
 ### Building useful software with security, privacy, and people in mind.
 
@@ -12,7 +12,7 @@
 
 ## About me
 
-I'm **Amr M. Alshammeri**, a Computer Science graduate based in Malaysia. I build practical software across **AI engineering, developer tools, browser extensions, cybersecurity, and cloud applications**.
+I'm **AMR M. ALSHAMEERI**, a Computer Science graduate based in Malaysia. I build practical software across **AI engineering, developer tools, browser extensions, cybersecurity, and cloud applications**.
 
 I care about software that is clear, useful, and responsible—especially products that give people control over automation, privacy, and security. I'm currently open to **software engineering and AI engineering roles**, as well as selected freelance collaborations.
 
